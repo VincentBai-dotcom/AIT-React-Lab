@@ -1,5 +1,58 @@
-.App {
+.App{
   text-align: center;
+}
+
+.card{
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  margin: 2%;
+}
+
+button{
+  font-size: 30px;
+}
+
+p{
+  padding-left: 1%;
+  font-size: 40px;
+}
+
+.Chicken{
+  background-image: url("./pics/Chicken.png");
+}
+
+.Burger{
+  background-image: url("./pics/Burger.jpg");
+}
+
+.Cookie{
+  background-image: url("./pics/Cookie.jpg");
+}
+
+.Cry{
+  background-image: url("./pics/Cry.jpg");
+}
+
+.Diamond{
+  background-image: url("./pics/Diamond.png");
+}
+
+.Fire{
+  background-image: url("./pics/Fire.jpg");
+}
+
+
+.Pineapple{
+  background-image: url("./pics/Pineapple.jpg");
+}
+
+.Smile{
+  background-image: url("./pics/Smile.jpg");
+}
+
+.cardBack{
+  background-color: red;
 }
 
 .App-logo {
